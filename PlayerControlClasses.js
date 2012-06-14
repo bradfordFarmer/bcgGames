@@ -1,6 +1,6 @@
 #pragma strict
-
-class player extends System.ValueType {
+import System.Collections.Generic;
+class player extends MonoBehaviour {
 	var deck : Array;
 	var Promotions : Array;
 	var name : String;

@@ -1,5 +1,5 @@
 #pragma strict
-
+import System.Collections.Generic;
 
 class ability  {
 	var owner : int;
